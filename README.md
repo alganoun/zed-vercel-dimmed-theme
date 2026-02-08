@@ -14,7 +14,7 @@ The **True Syntax** variant uses syntax colors based on the syntax highlighting 
 
 ## Preview
 
-![Vercel Dimmed Theme Preview](preview.png)
+![Vercel Dimmed Theme Preview](preview-images/preview.png)
 
 ## License
 
