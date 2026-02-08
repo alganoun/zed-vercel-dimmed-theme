@@ -1,0 +1,21 @@
+id = "vercel-dimmed-theme"
+name = "Vercel Dimmed Themes"
+version = "1.0.0"
+schema_version = 1
+description = "A minimal, dark theme inspired by Vercel's design system. Near-black backgrounds with balanced accent colors."
+repository = "https://github.com/alganoun/vercel-dimmed-theme"
+authors = ["alganoun"]
+themes = ["themes/vercel-dimmed.json"]
+icon_themes = []
+languages = []
+capabilities = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[slash_commands]
